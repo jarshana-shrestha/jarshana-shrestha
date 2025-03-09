@@ -1,5 +1,5 @@
 ## 👋 Hello, I'm Jarshana Shrestha!
-🚀 **Facilitator | [Your Expertise] | [Your Passion]**🚀 Graduate Student | Data Analyst | Machine Learning Enthusiast
+🚀 Graduate Student | Data Analyst | Machine Learning Enthusiast
 
 🔹 Passionate about predictive modeling, and data-driven insights
 🔹 Currently working on CMS Medicare data analysis & healthcare outcome prediction
