@@ -7,6 +7,12 @@
 🔹 Learning Dash, advanced model optimization, and cloud analytics
  
 ---
+### Technical Skills:
+Programming: Python, Java, SQL, R
+Data Science & ML: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch
+Database & Cloud: MySQL, AWS
+
+ ---
  
 ### 📊 GitHub Stats:
 <p align="center">
